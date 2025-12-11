@@ -1,23 +1,37 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "section": "",
+    "text": "This project sought to analyze the global trends in public interest for major cancers prevalent among international and domestic populations. Utilizing Wikipedia’s API for data and Python to perform"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "projects.html#project-1-international-public-interest-in-major-cancer-in-progress",
+    "href": "projects.html#project-1-international-public-interest-in-major-cancer-in-progress",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "This project sought to analyze the global trends in public interest for major cancers prevalent among international and domestic populations. Utilizing Wikipedia’s API for data and Python to perform"
+  },
+  {
+    "objectID": "projects.html#project-2-framing-deregulation-in-trumps-environmnetal-executive-orders-and-speeches",
+    "href": "projects.html#project-2-framing-deregulation-in-trumps-environmnetal-executive-orders-and-speeches",
+    "title": "Projects",
+    "section": "Project 2: Framing Deregulation in Trump’s Environmnetal Executive Orders and Speeches",
+    "text": "Project 2: Framing Deregulation in Trump’s Environmnetal Executive Orders and Speeches\nFollowing Donald Trump’s presidential inauguration in early 2025, his public speeches and released executive orders on environmental matters from 2017 to 2025 were examined to see how the language of the Trump administration frames energy, climate, and regulatory priorities. Within R, dictionary based text as data approaches were utilized to reveal patterns in energy and environment topics. The results demonstrated a pattern of dominate language around the development of fossil fuel while collaterally sacrificing environmental protection"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Hi!!!!!\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi!!!!!"
   }
 ]
