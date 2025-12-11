@@ -11,7 +11,7 @@ website:
       - projects.qmd
     tools:
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/avh405/Assignment5
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023, Astrid Van Haren"
@@ -22,4 +22,3 @@ format:
     toc: true
 
 editor: source
-
